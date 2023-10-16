@@ -1,4 +1,4 @@
-task: DotNetCoreCLI@2
+- task: DotNetCoreCLI@2
   displayName: 'Build the project'
   inputs:
     command: 'build'
